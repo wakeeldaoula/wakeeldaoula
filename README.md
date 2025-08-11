@@ -1,6 +1,6 @@
-# Hi there 👋, I'm Wakeel Daoula
+# Hi there 👋, I'm Wakeel 
 
-I'm a passionate software developer and data scientist specializing in building cool projects and solving real-world problems.
+I'm a passionate Data Analyst and Data Scientist specializing in building cool projects and solving real-world problems.
 
 ---
 
@@ -15,7 +15,7 @@ I'm a passionate software developer and data scientist specializing in building 
 ## 💻 Skills
 
 - Python | Flask | Machine Learning | NLP
-- HTML | CSS | JavaScript | React
+- PowerBI | Excel | R | Pandas | Numpy 
 - SQL | Databases | Data Analysis
 
 ---
